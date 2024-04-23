@@ -1,6 +1,11 @@
 # Image input directory
 Lightroom_1/
 
+# Ouput directory
+outputs/
+final_image.jpg
+
 # Virtual Env
 cv_venv/
+__pycache__
 
